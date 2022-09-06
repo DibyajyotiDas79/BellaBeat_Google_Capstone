@@ -1,3 +1,5 @@
+[Link to the report webpage](https://dibyajyotidas79.github.io/BellaBeat_Google_Capstone/markdown.html)
+
 ---
 title: "Google Data Analytics Capstone Project"
 author: "Dibyajyoti Das"
